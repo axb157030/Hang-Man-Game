@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27a45290.css",
-    "main.js": "/static/js/main.a52da7b5.js",
-    "static/js/488.197e7ad6.chunk.js": "/static/js/488.197e7ad6.chunk.js",
-    "index.html": "/index.html",
-    "main.27a45290.css.map": "/static/css/main.27a45290.css.map",
-    "main.a52da7b5.js.map": "/static/js/main.a52da7b5.js.map",
-    "488.197e7ad6.chunk.js.map": "/static/js/488.197e7ad6.chunk.js.map"
+    "main.css": "/Hang-Man-Game/static/css/main.27a45290.css",
+    "main.js": "/Hang-Man-Game/static/js/main.bb653abe.js",
+    "static/js/488.197e7ad6.chunk.js": "/Hang-Man-Game/static/js/488.197e7ad6.chunk.js",
+    "index.html": "/Hang-Man-Game/index.html",
+    "main.27a45290.css.map": "/Hang-Man-Game/static/css/main.27a45290.css.map",
+    "main.bb653abe.js.map": "/Hang-Man-Game/static/js/main.bb653abe.js.map",
+    "488.197e7ad6.chunk.js.map": "/Hang-Man-Game/static/js/488.197e7ad6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27a45290.css",
-    "static/js/main.a52da7b5.js"
+    "static/js/main.bb653abe.js"
   ]
 }
